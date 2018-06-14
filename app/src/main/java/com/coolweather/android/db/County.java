@@ -1,7 +1,5 @@
 package com.coolweather.android.db;
 
-import android.provider.ContactsContract;
-
 import org.litepal.crud.DataSupport;
 
 /**
